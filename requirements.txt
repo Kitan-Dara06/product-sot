@@ -1,0 +1,6 @@
+pytesseract
+python-dotenv
+google
+pinecone
+flask
+sentence-transformers
